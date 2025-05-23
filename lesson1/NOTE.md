@@ -1,5 +1,3 @@
----
-
 # Lesson 1: Variables & Data Types
 
 **File: `Lesson1/NOTES.md`**
