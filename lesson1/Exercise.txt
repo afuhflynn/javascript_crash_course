@@ -1,0 +1,7 @@
+Exercise
+
+1. Declare constants and let variables as described.
+2. Perform arithmetic and log with template literals.
+3. Demonstrate implicit vs explicit type conversion.
+4. Write a short comment: when to use const vs let vs var.
+5. Bonus: Create a Symbol and log its description.

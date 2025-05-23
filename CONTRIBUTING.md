@@ -11,11 +11,13 @@ Thank you for considering contributing to **JavaScript Crash Course**! We welcom
    git clone https://github.com/your-username/JavaScript_crash_course.git
    cd JavaScript_crash_course
    ```
+
 3. **Create a branch:**
 
    ```bash
    git checkout -b feature/your-feature-name
    ```
+
 4. **Make your changes**: add lessons under `LessonX/`, update `README.md` or other docs.
 5. **Run tests/practicals** (if applicable) and ensure examples work.
 6. **Commit** your changes:
@@ -23,11 +25,13 @@ Thank you for considering contributing to **JavaScript Crash Course**! We welcom
    ```bash
    git commit -m "Add Lesson X: Topic"
    ```
+
 7. **Push** to your fork:
 
    ```bash
    git push origin feature/your-feature-name
    ```
+
 8. **Open a Pull Request** on the main repository.
 
 ## Guidelines

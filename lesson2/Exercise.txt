@@ -1,0 +1,4 @@
+1. Define a multiline string and log it.
+2. Use at least three string methods on a given string.
+3. Write a function that takes a sentence and returns the number of words.
+4. Bonus: Reverse a string.

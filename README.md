@@ -44,13 +44,13 @@
 
 ## Lesson 1: Variables & Data Types
 
-**Refer to** [Lesson1/NOTES.md](./Lesson1/NOTES.md) **or** [Lesson1/practicals.js](./Lesson1/practicals.js)
+**Refer to** [lesson/NOTES.md](./lesson1/NOTES.md) **or** [Lesson1/practicals.js](./lesson1/practicals.js)
 
 ---
 
 ## Lesson 2: Strings & Template Literals
 
-**Refer to** [Lesson2/NOTES.md](./Lesson2/NOTES.md) **or** [Lesson2/practicals.js](./Lesson2/practicals.js)
+**Refer to** [lesson2/NOTES.md](./lesson2/NOTES.md) **or** [lesson2/practicals.js](./lesson2/practicals.js)
 
 ---
 
@@ -94,10 +94,6 @@
 
 Check the exercises at: [Exercises](./Exercises.txt) or see solutions at: \[solution.js]
 
-```
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo
@@ -112,5 +108,3 @@ Check the exercises at: [Exercises](./Exercises.txt) or see solutions at: \[solu
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
-
-```

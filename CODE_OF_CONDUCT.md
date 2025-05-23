@@ -24,5 +24,3 @@ Examples of unacceptable behavior by participants:
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at \[email protected]. Reports will be reviewed and investigated promptly.
 
 All contributors must comply with this Code of Conduct. Maintainers may remove, edit, or reject contributions that violate these guidelines.
-
----

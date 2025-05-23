@@ -1,8 +1,6 @@
 
 # Lesson 2: Strings & Template Literals
 
-**File: `Lesson2/NOTES.md`**
-
 ## Table of Contents
 
 * [String Basics](#string-basics)
@@ -80,64 +78,3 @@ console.log(phrase.slice(2, 12));
 5. Extract a substring between two indices.
 
 ---
-
----
-
-**File: `Lesson2/practicals.js`**
-
-```js
-// 1. Favorite quote
-const quote = `
-  "The only limit to our realization of tomorrow
-   is our doubts of today." - Franklin D. Roosevelt
-`;
-console.log(quote);
-
-// 2. Trim & lowercase
-const raw = "   HELLO Gen Z!   ";
-const clean = raw.trim().toLowerCase();
-console.log(clean); // "hello gen z!"
-
-// 3. includes()
-console.log(clean.includes('gen z')); // true
-
-// 4. split list
-const list = "apple,banana,cherry";
-const fruits = list.split(',');
-console.log(fruits); // ["apple","banana","cherry"]
-
-// 5. substring
-const text = "JavaScript ES6+ features";
-console.log(text.slice(0, 10)); // "JavaScript"
-```
-
----
-
-**File: `Lesson2/Exercises.txt`**
-
-```
-1. Define a multiline string and log it.
-2. Use at least three string methods on a given string.
-3. Write a function that takes a sentence and returns the number of words.
-4. Bonus: Reverse a string.
-```
-
----
-
-**File: `Lesson2/solution.js`**
-
-```js
-// Solutions
-
-// 3. word count function
-function wordCount(str) {
-  return str.trim().split(/\s+/).length;
-}
-console.log(wordCount("  Hello world from JS   ")); // 4
-
-// 4. reverse string
-function reverseString(s) {
-  return s.split('').reverse().join('');
-}
-console.log(reverseString('GenZ')); // "ZneG"
-```
