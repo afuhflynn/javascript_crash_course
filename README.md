@@ -44,13 +44,13 @@
 
 ## Lesson 1: Variables & Data Types
 
-**Refer to** [lesson/NOTES.md](./lesson1/NOTES.md) **or** [Lesson1/practicals.js](./lesson1/practicals.js)
+**Refer to** [lesson/NOTES.md](./lesson1/NOTE.md) **or** [Lesson1/practicals.js](./lesson1/practicals.js)
 
 ---
 
 ## Lesson 2: Strings & Template Literals
 
-**Refer to** [lesson2/NOTES.md](./lesson2/NOTES.md) **or** [lesson2/practicals.js](./lesson2/practicals.js)
+**Refer to** [lesson2/NOTES.md](./lesson2/NOTE.md) **or** [lesson2/practicals.js](./lesson2/practicals.js)
 
 ---
 
