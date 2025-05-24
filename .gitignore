@@ -1,0 +1,8 @@
+# main local dev file
+main.js
+
+# editor files
+.vscode
+
+# local todo
+todo

@@ -1,5 +1,5 @@
 // 1. radius & area
-tconst radius = 5;
+const radius = 5;
 const area = Math.PI * radius ** 2;
 console.log(`Radius: ${radius}, Area: ${area.toFixed(2)}`);
 
