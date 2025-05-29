@@ -1,0 +1,5 @@
+1. Falsy list test
+2. isBetween(x,min,max)
+3. getConfig(cfg)
+4. toggleDark()
+5. Comment on && vs ||

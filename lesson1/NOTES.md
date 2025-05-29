@@ -4,6 +4,7 @@
 
 * [Introduction](#introduction)
 * [Variable declaration](#variable-declaration)
+* [Comments in JavaScript](#comments-in-javascript)
 * [Data Types](#data-types)
   * [Primitive Data Types](#primitive-data-types)
   * [Non-Primitive Data Types](#non-primitive-data-types)
@@ -63,6 +64,14 @@ const PI = 3.1415;
 
 ---
 
+## Comments in JavaScript
+
+```js
+// JavaSCript is a dynamic programming language used for creating interactive front end web applications and web servers with the help of runtimes such as Nodejs.
+// Stores a username
+const userName = "afuhflynn";
+```
+
 ## Data Types
 
 ### Primitive Data Types
@@ -86,11 +95,45 @@ const PI = 3.1415;
    let isStudent = true;
    ```
 
+4. **Undefined**: declared but not assigned
+
+   ```js
+   let user; // undefined
+   ```
+
+5. **Null**: explicit "no value"
+
+   ```js
+   let user = null; // null
+   ```
+
+6. **Symbol** (ES6): unique identifiers
+
+   ```js
+   let user = Symbol("User object with properties such as: name, username, age, id, etc.");
+   console.log(user.description);
+   ```
+
 ### Non-Primitive Data Types
 
-1. **Undefined**: declared but not assigned
-2. **Null**: explicit "no value"
-3. **Symbol** (ES6): unique identifiers
+1. **Array**: An ordered collection of a list of variables of the same or different types. (It's preferable to only insert elements of same types in an array in most use cases to avoid errors)
+
+   ```js
+   let names = ["John", "Lawrence", "Flynn"]; // Array of strings
+   let nums = [1, 4, 8, 0]; // Array of numbers
+
+   let items = ["John", "Rice", 98, 30, "Ruth", false, true, 0, {name: "Cameroon", capital: "Yaounde"}]; // Array of strings, numbers and boolean: Not too reasonable or usable.
+   ```
+
+2. **Object**: An unordered collection of `key` and `value` pairs. (This is one of the most used data types in large real world applications combined with `arrays`)
+
+   ```js
+   let user = {
+      name: "Flynn",
+      age: 30,
+      prefersTheme: "dark",
+   }
+   ```
 
 ---
 
@@ -187,6 +230,31 @@ This involves casting or conversion of a data type from one type to another expl
 * Prefer `const` by default, `let` when reassigning, avoid `var`.
 * Use `===`/`!==` for strict equality (no type coercion).
 * Name variables descriptively: `firstName`, `totalScore`, etc. But not too long
+
+```js
+const num = 30;
+console.log(num == "30"); // true ("30" -> 30 and then (num == 30) results to true);
+console.log(num === "30"); // false (no type coercion)
+
+console.log(num != "30"); // false ("30" -> 30 and then (num != 30) results to false);
+console.log(num !== "30"); // true (no type coercion)
+
+// Variable name examples
+const firstName = "John";
+const FirstName = "John";
+const first_name = "John";
+
+// BUT
+const firstname = "John"; // Less readable
+```
+
+**NOTE:** JavaScript is case sensitive
+
+```js
+const firstName = "John";
+// is not the same as:
+const FirstName = "John";
+```
 
 ---
 

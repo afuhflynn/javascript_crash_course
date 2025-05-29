@@ -34,7 +34,11 @@ console.log(single + ' ' + double + backtick); // "Hello World!"
 * `\'` single quote
 
 ```js
-console.log('Line1\nLine2');
+console.log('Line1\nLine2'); // Line1
+// Line 2
+console.log("Line1\tLine2"); // Line1    Line2
+console.log("C:\\Desktop\\js_course\\main.js"); // C:\Desktop\js_course\main.js
+console.log('I\'m called JohnDoe'); // I'm called JohnDoe
 ```
 
 ---
@@ -133,7 +137,7 @@ const avatarPlaceHolder = firstFirstNameChar + firstLastNameChar; // AF
 1. Declare a string with your favorite quote (multiline using backticks).
 2. Trim whitespace and convert to lowercase.
 3. Check if the string includes a specific word.
-4. Split a comma-separated list into an array.
+4. Split a comma-separated string list of words into an array.
 5. Extract a substring between two indices.
 
 ---
