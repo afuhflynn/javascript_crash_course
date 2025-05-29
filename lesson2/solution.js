@@ -1,6 +1,6 @@
 // Solutions
 
-// Exercises in NOTE.md
+// Exercises in NOTES.md
 // 1
 let quote = `    Imagination is the DNA of all inventions    `;
 console.log(quote);

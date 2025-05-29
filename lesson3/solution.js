@@ -1,6 +1,6 @@
 // Solutions
 
-// Exercises in NOTE.md
+// Exercises in NOTES.md
 // 1
 const radius = 3.5;
 const pi = Math.PI;

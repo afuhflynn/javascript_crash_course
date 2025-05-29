@@ -3,13 +3,14 @@
 ## Table of Contents
 
 * [Boolean Values](#boolean-values)
+  * [The boolean constructor](#the-boolean-constructor)
 * [Truthy & Falsy](#truthy--falsy)
 * [Logical Operators](#logical-operators)
 
   * AND `&&`
   * OR `||`
   * NOT `!`
-* [Short-Circuit Evaluation](#short-circuit-evaluation)
+* [Short-Circuit Evaluation](#short-circuit-evaluation-and-logical-operations)
 * [Real-World Use Cases](#real-world-use-cases)
 * [Exercises](#exercises)
 
@@ -17,11 +18,22 @@
 
 ## Boolean Values
 
-Two possible values: `true` or `false`.
+Booleans can accept only two possible values: `true` or `false`.
 
 ```js
 let isValid = true;
 let isDone = false;
+```
+
+---
+
+### The Boolean Constructor
+
+Just like the string and number data types, booleans can also be created with the `Boolean() constructor`
+
+```js
+let isValid = Boolean(true);
+let isDone = Boolean(false);
 ```
 
 ---
@@ -71,7 +83,7 @@ console.log(!0);     // true  (0 is falsy)
 
 ---
 
-## Short-Circuit Evaluation
+## Short-Circuit Evaluation and Logical Operations
 
 Use `&&`/`||` for defaults or guards.
 
@@ -90,6 +102,7 @@ const value = input || 'default'; // 'default'
 * Feature toggles (`isBeta && renderBeta()`)
 * Default parameters (`opts.limit || 10`)
 * Guard clauses in functions
+* Modify UIs to display certain values based on user data states in reactive applications.
 
 ---
 
@@ -102,3 +115,5 @@ const value = input || 'default'; // 'default'
 5. Explain short-circuiting in a comment: difference between `&&` and `||`.
 
 ---
+
+For more exercises checkout: [Exercises](./Exercise.txt)

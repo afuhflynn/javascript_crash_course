@@ -96,3 +96,5 @@ console.log(3 + 4 ** 2 / 2);    // 11
 4. Use exponentiation to compute compound interest: `P * (1 + r) ** n`.
 
 ---
+
+For more exercises checkout: [Exercises](./Exercise.txt)

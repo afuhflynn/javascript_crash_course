@@ -1,5 +1,5 @@
-1. Falsy list test
-2. isBetween(x,min,max)
-3. getConfig(cfg)
-4. toggleDark()
-5. Comment on && vs ||
+1. List all the falsy values in JavaScript with practical examples and one real world implementation in a game, website or anything you can think of
+2. Explain short-circuiting in a comment: difference between `&&` and `||`
+3. Using the boolean constructor, insert every falsy value in JavaScript in it and then print it's value
+4. Differentiate between using the Boolean() constructor and regular assignment operator in a comment and then illustrate below with 
+practical examples.

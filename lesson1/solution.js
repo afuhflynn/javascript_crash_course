@@ -1,6 +1,6 @@
 // Solution to Exercises
 
-// Exercises in NOTE.md
+// Exercises in NOTES.md
 // 1
 const RADIUS = 7; // constant naming convention
 let counter = 0;
