@@ -1,0 +1,6 @@
+1. Create an array of your favorite movies and log the length of the array.
+2. Add a new movie to the array and then remove the last one. Log the updated array.
+3. Write a for loop that prints each element in the array.
+4. Use the forEach method to log the index and value of each array element.
+5. Use map to create a new array that contains the lengths of each movie title.
+6. Filter the array to get movies whose names have more than 5 letters.
