@@ -1,0 +1,5 @@
+1. Create a Date for your birthday, then log the day of week (e.g., 'Monday').
+2. Write a function formatDate(d) that returns 'YYYY-MM-DD HH:MM:SS'.
+3. Given two Date objects, calculate the difference in days between them.
+4. Add 90 minutes to the current time and log the new Date.
+5. Convert '12/31/2024' (MM/DD/YYYY) to a Date object, then log its ISO string.
