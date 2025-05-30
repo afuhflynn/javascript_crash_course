@@ -267,4 +267,4 @@ const FirstName = "John";
 
 ---
 
-For more exercises checkout: [Exercises](./Exercise.txt)
+For more exercises checkout: [Exercises](./Exercise.txt) and for solution to the exercises checkout: [Solution](./solution.js)

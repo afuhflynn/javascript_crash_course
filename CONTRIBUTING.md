@@ -40,4 +40,4 @@ Thank you for considering contributing to **JavaScript Crash Course**! We welcom
 * Write clear, concise explanations in `NOTES.md`.
 * Include practical examples in `practicals.js`.
 * Add exercises and solutions.
-* Keep code styles consistent (use semicolons, 2-space indentation).
+* Keep code styles consistent (use semicolons, appropriate indentation).

@@ -31,13 +31,15 @@
   * [Lesson 3: Numbers & Math](#lesson-3-numbers--math)
   * [Lesson 4: Booleans & Logic](#lesson-4-booleans--logic)
   * [Lesson 5: Control Flow & Loops](#lesson-5-control-flow--loops)
-  * [Lesson 6: Functions & Scope](#lesson-6-functions--scope)
-  * [Lesson 7: Arrays & Iteration](#lesson-7-arrays--iteration)
-  * [Lesson 8: Objects & Prototypes](#lesson-8-objects--prototypes)
-  * [Lesson 9: DOM Manipulation](#lesson-9-dom-manipulation)
+  * [Lesson 6: Arrays & Iterations](#lesson-6-arrays--iterations)
+  * [Lesson 7: Objects & Prototypes](#lesson-7-objects--prototypes)
+  * [Lesson 8: Expressions & Operators](#lesson-8-expressions--operators)
+  * [Lesson 9: Functions & Scope](#lesson-9-functions--scope)
   * [Lesson 10: The Date Object](#lesson-10-date-object)
   * [Lesson 11: The Math Module](#lesson-11-math-module)
-  * [Lesson 12: OOP in javaScript](#lesson-12-oop-in-javascript)
+  * [Lesson 12: DOM Manipulation](#lesson-12-dom-manipulation)
+  * [Lesson 13: JavaScript Client Side Library (jQuery)](#lesson-13-javascript-client-side-library-jquery)
+  * [Lesson 14: OOP in JavaScript](#lesson-14-oop-in-javascript)
 
 ## Introduction
 
@@ -75,19 +77,19 @@ JavaScript started life with the name Mocha, and was briefly named LiveScript be
 
 **Refer to** [lesson5/NOTES.md](./lesson5/NOTES.md) **or** [lesson5/practicals.js](./lesson5/practicals.js)
 
-## Lesson 6: Functions & Scope
+## Lesson 6: Arrays & Iterations
 
 **Refer to** [lesson6/NOTES.md](./lesson6/NOTES.md) **or** [lesson6/practicals.js](./lesson6/practicals.js)
 
-## Lesson 7: Arrays & Iteration
+## Lesson 7: Objects & Prototypes
 
 **Refer to** [lesson7/NOTES.md](./lesson7/NOTES.md) **or** [lesson7/practicals.js](./lesson7/practicals.js)
 
-## Lesson 8: Objects & Prototypes
+## Lesson 8: Expressions & Operators
 
 **Refer to** [lesson8/NOTES.md](./lesson8/NOTES.md) **or** [lesson8/practicals.js](./lesson8/practicals.js)
 
-## Lesson 9: DOM Manipulation
+## Lesson 9: Functions & Scope
 
 **Refer to** [lesson9/NOTES.md](./lesson9/NOTES.md) **or** [lesson9/practicals.js](./lesson9/practicals.js)
 
@@ -99,9 +101,17 @@ JavaScript started life with the name Mocha, and was briefly named LiveScript be
 
 **Refer to** [lesson11/NOTES.md](./lesson11/NOTES.md) **or** [lesson11/practicals.js](./lesson11/practicals.js)
 
-## Lesson 12: OOP in JavaScript
+## Lesson 12: DOM Manipulation
 
 **Refer to** [lesson12/NOTES.md](./lesson12/NOTES.md) **or** [lesson12/practicals.js](./lesson12/practicals.js)
+
+## Lesson 13: JavaScript Client Side Library (jQuery)
+
+**Refer to** [lesson13/NOTES.md](./lesson13/NOTES.md) **or** [lesson13/practicals.js](./lesson13/practicals.js)
+
+## Lesson 14: OOP in JavaScript
+
+**Refer to** [lesson14/NOTES.md](./lesson14/NOTES.md) **or** [lesson14/practicals.js](./lesson14/practicals.js)
 
 ## Exercise Details
 

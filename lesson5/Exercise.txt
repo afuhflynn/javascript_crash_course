@@ -1,0 +1,5 @@
+1. Write an if statement to check if a number is positive, negative, or zero. Log the result.
+2. Use a switch statement to log different messages for colors "red", "green", and "blue". Use default for other colors.
+3. Create a for loop that prints all even numbers from 2 to 20.
+4. Use a while loop to print the first 10 Fibonacci numbers.
+5. Write a do-while loop that asks the user (simulate with a variable) to enter a password until they get it right.

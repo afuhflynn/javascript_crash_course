@@ -34,6 +34,8 @@ Just like the string and number data types, booleans can also be created with th
 ```js
 let isValid = Boolean(true);
 let isDone = Boolean(false);
+const isTrue = Boolean(0);
+const isGood = Boolean(1);
 ```
 
 ---
@@ -116,4 +118,4 @@ const value = input || 'default'; // 'default'
 
 ---
 
-For more exercises checkout: [Exercises](./Exercise.txt)
+For more exercises checkout: [Exercises](./Exercise.txt) and for solution to the exercises checkout: [Solution](./solution.js)
