@@ -1,0 +1,5 @@
+1. Define object `book` with properties `title` and `author`, and method `read()` that logs "Reading <title> by <author>".
+2. Add a `year` property to `book` using bracket notation.
+3. Write a constructor `Book(title, author)` and add a prototype method `getSummary()` that returns a string.
+4. Use `Object.keys()`, `Object.values()`, and `Object.entries()` on an object of your choice.
+5. Merge three objects into one using `Object.assign()`.
