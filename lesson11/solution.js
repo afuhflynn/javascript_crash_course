@@ -1,28 +1,28 @@
 // Solutions
 
 // Exercises in NOTES.md
-// 1. Find the highest and lowest in an array of numbers
+// 1.
 const numbers = [15, 42, -7, 0, 23];
 console.log("Highest:", Math.max(...numbers));
 console.log("Lowest:", Math.min(...numbers));
 
-// 2. randInt(m, n) function
+// 2.
 function randInt(m, n) {
   return m + Math.floor((n - m + 1) * Math.random());
 }
 console.log("Random integer between 5 and 15:", randInt(5, 15));
 
-// 3. Convert array of floats to integers
+// 3.
 const floatArray = [3.14, 2.71, 1.41];
 const integerArray = floatArray.map((num) => Math.round(num));
 console.log("Rounded integers:", integerArray);
 
-// 4. Simulate rolling a six-sided die 10 times
+// 4.
 for (let i = 0; i < 10; i++) {
   console.log("Die roll:", randInt(1, 6));
 }
 
-// 5. Calculate the area of a circle
+// 5.
 function calculateCircleArea(radius) {
   return Math.PI * Math.pow(radius, 2);
 }

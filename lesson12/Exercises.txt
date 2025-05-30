@@ -1,0 +1,5 @@
+1. Change an element's ID-selected text to your name.
+2. On button click, toggle 'hidden' class on a paragraph.
+3. Dynamically build a UL with five LI items labeled Item 1–5.
+4. Add an input (#user-input) and mirror its value into a DIV in real time.
+5. Create a 'Clear List' button that removes all LIs from the UL when clicked.
