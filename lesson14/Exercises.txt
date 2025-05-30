@@ -1,0 +1,5 @@
+1. Implement `Car(make, model)` as a constructor function with `getInfo()`.
+2. Rewrite `Car` as an ES6 class with the same `getInfo()` method.
+3. Create `ElectricCar` class that extends `Car`, adds `batteryLevel`, and overrides `getInfo()` to include battery info.
+4. Add a static method `compareBattery(carA, carB)` to `ElectricCar` that returns the difference in battery levels.
+5. Add getters and setters for `batteryLevel` in `ElectricCar` to clamp values between 0 and 100.
