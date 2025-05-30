@@ -1,0 +1,5 @@
+1. Implement `square(n)` three ways: declaration, expression, arrow.
+2. Write `divide(a, b=1)` to return `a/b`, handling missing `b`.
+3. Show global vs function scope by declaring `var x = 1;` and inside a function reassigning `x`.
+4. Build `makeCounter()` closure that tracks and returns calls count.
+5. Call a function before declaration to demonstrate hoisting.
