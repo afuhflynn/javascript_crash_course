@@ -1,0 +1,5 @@
+1. Given an array [10, -5, 20, 0], use Math.max() and Math.min() to log the highest and lowest values.
+2. Implement randInt(m, n) to return a random integer between m and n inclusive, then roll between 1 and 20, 5 times.
+3. With an array of floats [1.2, 2.5, 3.7], use map() and Math.round() to convert to integers.
+4. Simulate rolling three six-sided dice using Math.random() and log each roll.
+5. Write a function circleArea(r) that returns area (πr²) using Math.PI and Math.pow().
