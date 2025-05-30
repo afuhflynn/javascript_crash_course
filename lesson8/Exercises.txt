@@ -1,0 +1,5 @@
+1. Given width and height variables, calculate and log rectangle area and perimeter.
+2. Show examples of `==` vs `===` comparing different pairs of values.
+3. Initialize a `points` variable, then use `+=` and `*=` to update it twice.
+4. Concatenate two strings using `+` and using template literals to form a greeting.
+5. Convert string `"42"` to a number using unary `+` and `Number()`, then log types.
