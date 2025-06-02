@@ -97,4 +97,4 @@ console.log(3 + 4 ** 2 / 2);    // 11
 
 ---
 
-For more exercises checkout: [Exercises](./Exercise.txt) and for solution to the exercises checkout: [Solution](./solution.js)
+For more exercises checkout: [Exercises](./Exercises.txt) and for solution to the exercises checkout: [Solution](./solution.js)

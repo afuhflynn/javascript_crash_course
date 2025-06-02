@@ -144,4 +144,4 @@ const avatarPlaceHolder = firstFirstNameChar + firstLastNameChar; // AF
 
 `HINT: The best way to learn something new about strings is basically appending a dot (.) at the end of the string name then your editor's intellisense will display a list of methods and string properties that you can make use of. NOTE: This also works for all the other data types.`
 
-For more exercises checkout: [Exercises](./Exercise.txt) and for solution to the exercises checkout: [Solution](./solution.js)
+For more exercises checkout: [Exercises](./Exercises.txt) and for solution to the exercises checkout: [Solution](./solution.js)

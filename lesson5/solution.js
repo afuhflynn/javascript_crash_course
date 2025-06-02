@@ -1,5 +1,8 @@
 // Solutions
 
+// NOTE: In this lesson just follow along. In lesson5 you will learn more about the if, switch and other conditional statements
+// NOTE: Just follow along with the solution in lesson9 you will learn more about functions
+
 // Exercises in NOTES.md
 // 1.
 function evenOrOdd(num) {

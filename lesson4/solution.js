@@ -1,6 +1,6 @@
 // Solutions
 
-// NOTE: In this topic just follow along. In lesson5 you will learn more about the if statement
+// NOTE: In this lesson just follow along. In lesson5 you will learn more about the if statement
 
 // Exercises in NOTES.md
 // 1
@@ -14,7 +14,7 @@ const values = false;
 if (!values) console.log("It is false and falsy");
 
 // 2
-// NOTE: Just follow along with the solution in lesson6 you will learn more about functions
+// NOTE: Just follow along with the solution in lesson9 you will learn more about functions
 
 // A JavaScript Function
 // min < x < max
@@ -32,7 +32,7 @@ const result = isBetween(10, 3, 20);
 console.log(result); // true
 
 // 3
-// NOTE: Just follow along with the solution in lesson8 you will learn more about objects in JS
+// NOTE: Just follow along with the solution in lesson7 you will learn more about objects in JS
 
 const config = undefined || { theme: "dark", region: "Africa" };
 console.log({ configData: config }); // { configData: {theme: "dark", region: "Africa"}}

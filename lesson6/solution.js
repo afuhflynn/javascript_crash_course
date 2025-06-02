@@ -1,4 +1,5 @@
 // Solutions
+// NOTE: Just follow along with the solution in lesson9 you will learn more about functions
 
 // Exercises in NOTES.md
 // 1.

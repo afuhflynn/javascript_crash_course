@@ -1,5 +1,7 @@
 // Solutions
 
+// NOTE: Just follow along with the solution in lesson9 you will learn more about functions
+
 // Exercises in NOTES.md
 // 1. Area and Perimeter
 const w = 10; // width
@@ -24,9 +26,9 @@ console.log("Score:", score);
 
 // 4. String concatenation and template literals
 const greeting = "Hi";
-const name = "Alice";
-console.log(greeting + ", " + name + "!"); // "Hi, Alice!"
-console.log(`${greeting}, ${name}!`); // "Hi, Alice!"
+const username = "Alice";
+console.log(greeting + ", " + username + "!"); // "Hi, Alice!"
+console.log(`${greeting}, ${username}!`); // "Hi, Alice!"
 
 // 5. String to number conversion
 const strNum = "123";

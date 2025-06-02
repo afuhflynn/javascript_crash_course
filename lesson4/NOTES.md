@@ -118,4 +118,4 @@ const value = input || 'default'; // 'default'
 
 ---
 
-For more exercises checkout: [Exercises](./Exercise.txt) and for solution to the exercises checkout: [Solution](./solution.js)
+For more exercises checkout: [Exercises](./Exercises.txt) and for solution to the exercises checkout: [Solution](./solution.js)
